@@ -1,3 +1,14 @@
+.row .col h2 {
+  border-bottom: 1px #000 solid;
+  padding-bottom: .5em;
+  margin-bottom: .5em;
+}
+
+.row {
+  margin-top: -2em;
+  padding-top: 4em;
+}
+
 .tag {
     color: rgb(60, 78, 80);
     padding: 0.3em;

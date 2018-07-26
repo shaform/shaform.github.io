@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yong-Siang Shih (施詠翔) on Yong-Siang Shih (施詠翔)</title>
+    <link>/</link>
+    <description>Recent content in Yong-Siang Shih (施詠翔) on Yong-Siang Shih (施詠翔)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compatibility Family Learning for Item Recommendation and Generation</title>
+      <link>/publication/shih2017family/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shih2017family/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection, Disambiguation and Argument Identification of Discourse Connectives in Chinese Discourse Parsing</title>
+      <link>/publication/shih2016detect/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shih2016detect/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NTUNLP Approaches to Recognizing and Disambiguating Entities in Long and Short Text at the ERD Challenge 2014</title>
+      <link>/publication/chiu2014ntunlp/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/chiu2014ntunlp/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CS Dream</title>
+      <link>/project/csdream/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/project/csdream/</guid>
+      <description>&lt;p&gt;CS Dream is a open book that introduces computer science to the general audience.&lt;/p&gt;
+
+&lt;p&gt;The book discusses general topics such as the usage of search engines, places to find books, and the importance of English.
+In addition, it also introduces several courses that are usually taught at the universities. The courses covered include Assembly Language, Discrete Mathematics, Cryptography, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gifted</title>
+      <link>/project/gifted/</link>
+      <pubDate>Wed, 16 Mar 2005 00:00:00 +0800</pubDate>
+      
+      <guid>/project/gifted/</guid>
+      <description>&lt;p&gt;Gifted is a novel website that tells fictional stories. The stories are about how different people perceive the same situation differently.
+The web site utilizes Flash to create animations to accompany the stories.
+I have also written a post about how I created the website: &lt;a href=&#34;https://island.shaform.com/zh/2006/06/10/gifted/&#34; target=&#34;_blank&#34;&gt;〈宏碁數位創作獎作品——「天予」之創作歷程〉&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

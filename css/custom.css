@@ -1,0 +1,26 @@
+/*************************************************
+ *  Work
+ **************************************************/
+
+#container-work {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.work-metadata {
+  color: #4b4f56;
+  font-size: 1rem;
+}
+
+@media (min-width: 768px) {
+   .work-date {
+      text-align: right; 
+  }
+}
+
+@media (min-width: 768px) {
+   .work-location {
+      text-align: right; 
+  }
+}

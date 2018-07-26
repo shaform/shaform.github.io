@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Yong-Siang Shih (施詠翔)</title>
+    <link>/work/</link>
+    <description>Recent content in Experience on Yong-Siang Shih (施詠翔)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning Scientist</title>
+      <link>/work/appier/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/work/appier/</guid>
+      <description> Cross-screen analysis User profiling Product recommendation  </description>
+    </item>
+    
+    <item>
+      <title>Software Development Engineer Intern</title>
+      <link>/work/msft-intern/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/work/msft-intern/</guid>
+      <description> Implemented Parking answer that shows nearby parking lots when relevant queries are issued  </description>
+    </item>
+    
+    <item>
+      <title>Software Engineering Intern</title>
+      <link>/work/ibm-intern/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/work/ibm-intern/</guid>
+      <description> Unified different versions of a test framework for DataPower while keeping compatibility Created new features and fixed bugs on the test framework to improve productivity  </description>
+    </item>
+    
+    <item>
+      <title>Software Engineering Intern</title>
+      <link>/work/google-intern/</link>
+      <pubDate>Fri, 09 Sep 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/work/google-intern/</guid>
+      <description> Improved template file management to ease development process Reduced the loading time of iGoogle homepage by modifying JavaScript code  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snappy on Yong-Siang Shih (施詠翔)</title>
+    <link>/tags/snappy/</link>
+    <description>Recent content in Snappy on Yong-Siang Shih (施詠翔)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/snappy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Snappycat</title>
+      <link>/project/snappycat/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/project/snappycat/</guid>
+      <description>The snappy files produced by Hadoop contain data headers produced by BlockCompressorStream. Each block is prepended with two 32-bit integers stating the size of the decompressed data and size of the compressed data, respectively.h Therefore, snappy library cannot directly decompress it. This command line utility handles the headers and decompresses the data without any dependencies on the Hadoop libraries.</description>
+    </item>
+    
+  </channel>
+</rss>

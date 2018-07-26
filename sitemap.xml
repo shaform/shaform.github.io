@@ -77,8 +77,26 @@
     
     <url>
     
+      <loc>/project/snappycat/</loc>
+      <lastmod>2015-11-05T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/work/msft-intern/</loc>
       <lastmod>2014-09-19T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/anobii2goodreads/</loc>
+      <lastmod>2014-08-05T00:00:00+08:00</lastmod>
     </url>
     
   
@@ -151,8 +169,8 @@
     
     <url>
     
-      <loc>/tags/book/</loc>
-      <lastmod>2014-05-21T00:00:00+08:00</lastmod>
+      <loc>/tags/anobii/</loc>
+      <lastmod>2014-08-05T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,6 +208,26 @@
     
     <url>
     
+      <loc>/tags/goodreads/</loc>
+      <lastmod>2014-08-05T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/hadoop/</loc>
+      <lastmod>2015-11-05T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/</loc>
       <lastmod>2018-02-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -200,8 +238,8 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2014-05-21T00:00:00+08:00</lastmod>
+      <loc>/tags/snappy/</loc>
+      <lastmod>2015-11-05T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -210,8 +248,38 @@
     
     <url>
     
-      <loc>/tags/web-design/</loc>
+      <loc>/tags/</loc>
+      <lastmod>2014-08-05T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/utility/</loc>
+      <lastmod>2015-11-05T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/web/</loc>
       <lastmod>2005-03-16T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/writing/</loc>
+      <lastmod>2014-05-21T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     

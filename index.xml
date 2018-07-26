@@ -45,6 +45,16 @@
     </item>
     
     <item>
+      <title>Snappycat</title>
+      <link>/project/snappycat/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/project/snappycat/</guid>
+      <description>&lt;p&gt;The snappy files produced by Hadoop contain data headers produced by BlockCompressorStream. Each block is prepended with two 32-bit integers stating the size of the decompressed data and size of the compressed data, respectively.h Therefore, snappy library cannot directly decompress it. This command line utility handles the headers and decompresses the data without any dependencies on the Hadoop libraries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Software Development Engineer Intern</title>
       <link>/work/msft-intern/</link>
       <pubDate>Fri, 19 Sep 2014 00:00:00 +0800</pubDate>
@@ -52,6 +62,22 @@
       <guid>/work/msft-intern/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Implemented Parking answer that shows nearby parking lots when relevant queries are issued&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anobii2Goodreads</title>
+      <link>/project/anobii2goodreads/</link>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/project/anobii2goodreads/</guid>
+      <description>&lt;p&gt;The utility could&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Convert exported &lt;a href=&#34;http://www.anobii.com/&#34; target=&#34;_blank&#34;&gt;Anobii&lt;/a&gt; CSV files to Goodreads CSV files for import.&lt;/li&gt;
+&lt;li&gt;Automatically create new book entries for missing books at Goodreads.&lt;/li&gt;
+&lt;li&gt;Crawl Anobii to obtain reading progress and insert it into Goodreads records.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

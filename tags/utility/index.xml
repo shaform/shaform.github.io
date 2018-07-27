@@ -31,5 +31,14 @@
  Convert exported Anobii CSV files to Goodreads CSV files for import. Automatically create new book entries for missing books at Goodreads. Crawl Anobii to obtain reading progress and insert it into Goodreads records.  </description>
     </item>
     
+    <item>
+      <title>FreeArray Input Method</title>
+      <link>/project/freearray/</link>
+      <pubDate>Fri, 07 May 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/project/freearray/</guid>
+      <description>An Array30 input method implementation under Linux.</description>
+    </item>
+    
   </channel>
 </rss>

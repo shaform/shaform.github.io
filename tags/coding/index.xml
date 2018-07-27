@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Yong-Siang Shih (施詠翔)</title>
+    <link>/tags/coding/</link>
+    <description>Recent content in Coding on Yong-Siang Shih (施詠翔)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 12 Jul 2014 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Source Contributions</title>
+      <link>/project/oss-contrib/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/project/oss-contrib/</guid>
+      <description>xianmin/hugo-theme-jane &amp;ndash; A readable &amp;amp; concise theme for Hugo  Enhances and bugfixes #76, #77, #79, #82, #83, #91, #98  RaRe-Technologies/smart_open &amp;ndash; Utils for streaming large files  Make it possible to change number of retries when reading S3 files #102  s3tools/s3cmd &amp;ndash; Command line tool for managing Amazon S3 and CloudFront services  Python 3 migration #785, #789, #806, #809  dmlc/xgboost &amp;ndash; Scalable, Portable and Distributed Gradient Boosting Library  Support different filesystems such as S3FileSystem #965  google/vim-codefmt &amp;ndash; codefmt is a utility for syntax-aware code formatting.</description>
+    </item>
+    
+  </channel>
+</rss>

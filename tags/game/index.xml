@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on Yong-Siang Shih (施詠翔)</title>
+    <link>/tags/game/</link>
+    <description>Recent content in Game on Yong-Siang Shih (施詠翔)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 26 Jun 2012 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazeing</title>
+      <link>/project/amazeing/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/project/amazeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArkanoidOnVerilog</title>
+      <link>/project/arkanoid-on-verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/project/arkanoid-on-verilog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

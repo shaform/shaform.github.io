@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Deep Networks</title>
+      <link>/project/deep-networks/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/project/deep-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detection, Disambiguation and Argument Identification of Discourse Connectives in Chinese Discourse Parsing</title>
       <link>/publication/shih2016detect/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
@@ -83,6 +92,58 @@
     </item>
     
     <item>
+      <title>Open Source Contributions</title>
+      <link>/project/oss-contrib/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/project/oss-contrib/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane&#34; target=&#34;_blank&#34;&gt;xianmin/hugo-theme-jane&lt;/a&gt; &amp;ndash; A readable &amp;amp; concise theme for Hugo
+
+&lt;ul&gt;
+&lt;li&gt;Enhances and bugfixes &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/76&#34; target=&#34;_blank&#34;&gt;#76&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/77&#34; target=&#34;_blank&#34;&gt;#77&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/79&#34; target=&#34;_blank&#34;&gt;#79&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/82&#34; target=&#34;_blank&#34;&gt;#82&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/83&#34; target=&#34;_blank&#34;&gt;#83&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/91&#34; target=&#34;_blank&#34;&gt;#91&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/98&#34; target=&#34;_blank&#34;&gt;#98&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RaRe-Technologies/smart_open&#34; target=&#34;_blank&#34;&gt;RaRe-Technologies/smart_open&lt;/a&gt; &amp;ndash; Utils for streaming large files
+
+&lt;ul&gt;
+&lt;li&gt;Make it possible to change number of retries when reading S3 files &lt;a href=&#34;https://github.com/RaRe-Technologies/smart_open/pull/102&#34; target=&#34;_blank&#34;&gt;#102&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/s3tools/s3cmd&#34; target=&#34;_blank&#34;&gt;s3tools/s3cmd&lt;/a&gt; &amp;ndash; Command line tool for managing Amazon S3 and CloudFront services
+
+&lt;ul&gt;
+&lt;li&gt;Python 3 migration &lt;a href=&#34;https://github.com/s3tools/s3cmd/pull/785&#34; target=&#34;_blank&#34;&gt;#785&lt;/a&gt;, &lt;a href=&#34;https://github.com/s3tools/s3cmd/pull/789&#34; target=&#34;_blank&#34;&gt;#789&lt;/a&gt;, &lt;a href=&#34;https://github.com/s3tools/s3cmd/pull/806&#34; target=&#34;_blank&#34;&gt;#806&lt;/a&gt;, &lt;a href=&#34;https://github.com/s3tools/s3cmd/pull/809&#34; target=&#34;_blank&#34;&gt;#809&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dmlc/xgboost&#34; target=&#34;_blank&#34;&gt;dmlc/xgboost&lt;/a&gt; &amp;ndash; Scalable, Portable and Distributed Gradient Boosting Library
+
+&lt;ul&gt;
+&lt;li&gt;Support different filesystems such as &lt;code&gt;S3FileSystem&lt;/code&gt; &lt;a href=&#34;https://github.com/dmlc/xgboost/pull/965&#34; target=&#34;_blank&#34;&gt;#965&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/google/vim-codefmt&#34; target=&#34;_blank&#34;&gt;google/vim-codefmt&lt;/a&gt; &amp;ndash; codefmt is a utility for syntax-aware code formatting.
+
+&lt;ul&gt;
+&lt;li&gt;Add yapf support &lt;a href=&#34;https://github.com/google/vim-codefmt&#34; target=&#34;_blank&#34;&gt;#56&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/botonchou/libdnn&#34; target=&#34;_blank&#34;&gt;botonchou/libdnn&lt;/a&gt; &amp;ndash; A lightweight and user friendly C++ library for deep and convolutional neural network with GPU acceleration
+
+&lt;ul&gt;
+&lt;li&gt;Bugfixes &lt;a href=&#34;https://github.com/botonchou/libdnn/pull/25&#34; target=&#34;_blank&#34;&gt;#25&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/chewing/libchewing&#34; target=&#34;_blank&#34;&gt;chewing/libchewing&lt;/a&gt; &amp;ndash; The intelligent phonetic input method library
+
+&lt;ul&gt;
+&lt;li&gt;Bugfixes &lt;a href=&#34;https://github.com/chewing/libchewing/pull/153&#34; target=&#34;_blank&#34;&gt;#153&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GitbookIO/gitbook&#34; target=&#34;_blank&#34;&gt;GitbookIO/gitbook&lt;/a&gt; &amp;ndash; Modern documentation format and toolchain using Git and Markdown
+
+&lt;ul&gt;
+&lt;li&gt;Add reference links support for markdown &lt;a href=&#34;https://github.com/GitbookIO/gitbook/pull/266&#34; target=&#34;_blank&#34;&gt;#266&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bugfixes &lt;a href=&#34;https://github.com/GitbookIO/gitbook/pull/366&#34; target=&#34;_blank&#34;&gt;#366&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>NTUNLP Approaches to Recognizing and Disambiguating Entities in Long and Short Text at the ERD Challenge 2014</title>
       <link>/publication/chiu2014ntunlp/</link>
       <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
@@ -119,6 +180,24 @@ In addition, it also introduces several courses that are usually taught at the u
     </item>
     
     <item>
+      <title>Dala Agent</title>
+      <link>/project/dala/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/project/dala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazeing</title>
+      <link>/project/amazeing/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/project/amazeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software Engineering Intern</title>
       <link>/work/google-intern/</link>
       <pubDate>Fri, 09 Sep 2011 00:00:00 +0800</pubDate>
@@ -132,15 +211,12 @@ In addition, it also introduces several courses that are usually taught at the u
     </item>
     
     <item>
-      <title>Gifted</title>
-      <link>/project/gifted/</link>
-      <pubDate>Wed, 16 Mar 2005 00:00:00 +0800</pubDate>
+      <title>ArkanoidOnVerilog</title>
+      <link>/project/arkanoid-on-verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 +0800</pubDate>
       
-      <guid>/project/gifted/</guid>
-      <description>&lt;p&gt;Gifted is a novel website that tells fictional stories. The stories are about how different people perceive the same situation differently.
-The web site utilizes Flash to create animations to accompany the stories.
-I have also written a post about how I created the website: &lt;a href=&#34;https://island.shaform.com/zh/2006/06/10/gifted/&#34; target=&#34;_blank&#34;&gt;〈宏碁數位創作獎作品——「天予」之創作歷程〉&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/project/arkanoid-on-verilog/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tensorflow on Yong-Siang Shih (施詠翔)</title>
-    <link>/tags/tensorflow/</link>
+    <link>https://shaform.com/tags/tensorflow/</link>
     <description>Recent content in Tensorflow on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Networks</title>
-      <link>/project/deep-networks/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/deep-networks/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>/project/deep-networks/</guid>
+      <guid>https://shaform.com/project/deep-networks/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Yong-Siang Shih (施詠翔)</title>
-    <link>/publication_types/1/</link>
+    <link>https://shaform.com/publication_types/1/</link>
     <description>Recent content in 1 on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Compatibility Family Learning for Item Recommendation and Generation</title>
-      <link>/publication/shih2017family/</link>
+      <link>https://shaform.com/publication/shih2017family/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/shih2017family/</guid>
+      <guid>https://shaform.com/publication/shih2017family/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection, Disambiguation and Argument Identification of Discourse Connectives in Chinese Discourse Parsing</title>
-      <link>/publication/shih2016detect/</link>
+      <link>https://shaform.com/publication/shih2016detect/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/shih2016detect/</guid>
+      <guid>https://shaform.com/publication/shih2016detect/</guid>
       <description></description>
     </item>
     

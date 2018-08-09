@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on Yong-Siang Shih (施詠翔)</title>
-    <link>/tags/game/</link>
+    <link>https://shaform.com/tags/game/</link>
     <description>Recent content in Game on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 26 Jun 2012 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2012 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazeing</title>
-      <link>/project/amazeing/</link>
-      <pubDate>Tue, 26 Jun 2012 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/amazeing/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 -0400</pubDate>
       
-      <guid>/project/amazeing/</guid>
+      <guid>https://shaform.com/project/amazeing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArkanoidOnVerilog</title>
-      <link>/project/arkanoid-on-verilog/</link>
-      <pubDate>Sun, 10 Jul 2011 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/arkanoid-on-verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
       
-      <guid>/project/arkanoid-on-verilog/</guid>
+      <guid>https://shaform.com/project/arkanoid-on-verilog/</guid>
       <description></description>
     </item>
     

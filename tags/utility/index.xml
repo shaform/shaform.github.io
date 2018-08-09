@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utility on Yong-Siang Shih (施詠翔)</title>
-    <link>/tags/utility/</link>
+    <link>https://shaform.com/tags/utility/</link>
     <description>Recent content in Utility on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/utility/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/tags/utility/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Snappycat</title>
-      <link>/project/snappycat/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/snappycat/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
       
-      <guid>/project/snappycat/</guid>
+      <guid>https://shaform.com/project/snappycat/</guid>
       <description>The snappy files produced by Hadoop contain data headers produced by BlockCompressorStream. Each block is prepended with two 32-bit integers stating the size of the decompressed data and size of the compressed data, respectively.h Therefore, snappy library cannot directly decompress it. This command line utility handles the headers and decompresses the data without any dependencies on the Hadoop libraries.</description>
     </item>
     
     <item>
       <title>Anobii2Goodreads</title>
-      <link>/project/anobii2goodreads/</link>
-      <pubDate>Tue, 05 Aug 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/anobii2goodreads/</link>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/anobii2goodreads/</guid>
+      <guid>https://shaform.com/project/anobii2goodreads/</guid>
       <description>The utility could
  Convert exported Anobii CSV files to Goodreads CSV files for import. Automatically create new book entries for missing books at Goodreads. Crawl Anobii to obtain reading progress and insert it into Goodreads records.  </description>
     </item>
     
     <item>
       <title>FreeArray Input Method</title>
-      <link>/project/freearray/</link>
-      <pubDate>Fri, 07 May 2010 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/freearray/</link>
+      <pubDate>Fri, 07 May 2010 00:00:00 -0400</pubDate>
       
-      <guid>/project/freearray/</guid>
+      <guid>https://shaform.com/project/freearray/</guid>
       <description>An Array30 input method implementation under Linux.</description>
     </item>
     

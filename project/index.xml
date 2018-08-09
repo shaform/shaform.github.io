@@ -2,105 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Yong-Siang Shih (施詠翔)</title>
-    <link>/project/</link>
+    <link>https://shaform.com/project/</link>
     <description>Recent content in Projects on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Networks</title>
-      <link>/project/deep-networks/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/deep-networks/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>/project/deep-networks/</guid>
+      <guid>https://shaform.com/project/deep-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snappycat</title>
-      <link>/project/snappycat/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/snappycat/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
       
-      <guid>/project/snappycat/</guid>
+      <guid>https://shaform.com/project/snappycat/</guid>
       <description>The snappy files produced by Hadoop contain data headers produced by BlockCompressorStream. Each block is prepended with two 32-bit integers stating the size of the decompressed data and size of the compressed data, respectively.h Therefore, snappy library cannot directly decompress it. This command line utility handles the headers and decompresses the data without any dependencies on the Hadoop libraries.</description>
     </item>
     
     <item>
       <title>Anobii2Goodreads</title>
-      <link>/project/anobii2goodreads/</link>
-      <pubDate>Tue, 05 Aug 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/anobii2goodreads/</link>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/anobii2goodreads/</guid>
+      <guid>https://shaform.com/project/anobii2goodreads/</guid>
       <description>The utility could
  Convert exported Anobii CSV files to Goodreads CSV files for import. Automatically create new book entries for missing books at Goodreads. Crawl Anobii to obtain reading progress and insert it into Goodreads records.  </description>
     </item>
     
     <item>
       <title>Open Source Contributions</title>
-      <link>/project/oss-contrib/</link>
-      <pubDate>Sat, 12 Jul 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/oss-contrib/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/oss-contrib/</guid>
-      <description>xianmin/hugo-theme-jane &amp;ndash; A readable &amp;amp; concise theme for Hugo  Enhances and bugfixes #76, #77, #79, #82, #83, #91, #98  RaRe-Technologies/smart_open &amp;ndash; Utils for streaming large files  Make it possible to change number of retries when reading S3 files #102  s3tools/s3cmd &amp;ndash; Command line tool for managing Amazon S3 and CloudFront services  Python 3 migration #785, #789, #806, #809  dmlc/xgboost &amp;ndash; Scalable, Portable and Distributed Gradient Boosting Library  Support different filesystems such as S3FileSystem #965  google/vim-codefmt &amp;ndash; codefmt is a utility for syntax-aware code formatting.</description>
+      <guid>https://shaform.com/project/oss-contrib/</guid>
+      <description>xianmin/hugo-theme-jane &amp;ndash; A readable &amp;amp; concise theme for Hugo  Enhances and bugfixes #76, #77, #79, #82, #83, #91, #98, #102  RaRe-Technologies/smart_open &amp;ndash; Utils for streaming large files  Make it possible to change number of retries when reading S3 files #102  s3tools/s3cmd &amp;ndash; Command line tool for managing Amazon S3 and CloudFront services  Python 3 migration #785, #789, #806, #809  dmlc/xgboost &amp;ndash; Scalable, Portable and Distributed Gradient Boosting Library  Support different filesystems such as S3FileSystem #965  google/vim-codefmt &amp;ndash; codefmt is a utility for syntax-aware code formatting.</description>
     </item>
     
     <item>
       <title>CS Dream</title>
-      <link>/project/csdream/</link>
-      <pubDate>Wed, 21 May 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/csdream/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/csdream/</guid>
+      <guid>https://shaform.com/project/csdream/</guid>
       <description>CS Dream is a open book that introduces computer science to the general audience.
 The book discusses general topics such as the usage of search engines, places to find books, and the importance of English. In addition, it also introduces several courses that are usually taught at the universities. The courses covered include Assembly Language, Discrete Mathematics, Cryptography, etc.</description>
     </item>
     
     <item>
       <title>Dala Agent</title>
-      <link>/project/dala/</link>
-      <pubDate>Wed, 05 Dec 2012 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/dala/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
       
-      <guid>/project/dala/</guid>
+      <guid>https://shaform.com/project/dala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazeing</title>
-      <link>/project/amazeing/</link>
-      <pubDate>Tue, 26 Jun 2012 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/amazeing/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 -0400</pubDate>
       
-      <guid>/project/amazeing/</guid>
+      <guid>https://shaform.com/project/amazeing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArkanoidOnVerilog</title>
-      <link>/project/arkanoid-on-verilog/</link>
-      <pubDate>Sun, 10 Jul 2011 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/arkanoid-on-verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
       
-      <guid>/project/arkanoid-on-verilog/</guid>
+      <guid>https://shaform.com/project/arkanoid-on-verilog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FreeArray Input Method</title>
-      <link>/project/freearray/</link>
-      <pubDate>Fri, 07 May 2010 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/freearray/</link>
+      <pubDate>Fri, 07 May 2010 00:00:00 -0400</pubDate>
       
-      <guid>/project/freearray/</guid>
+      <guid>https://shaform.com/project/freearray/</guid>
       <description>An Array30 input method implementation under Linux.</description>
     </item>
     
     <item>
       <title>Gifted</title>
-      <link>/project/gifted/</link>
-      <pubDate>Wed, 16 Mar 2005 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/gifted/</link>
+      <pubDate>Wed, 16 Mar 2005 00:00:00 -0500</pubDate>
       
-      <guid>/project/gifted/</guid>
+      <guid>https://shaform.com/project/gifted/</guid>
       <description>Gifted is a novel website that tells fictional stories. The stories are about how different people perceive the same situation differently. The web site utilizes Flash to create animations to accompany the stories. I have also written a post about how I created the website: 〈宏碁數位創作獎作品——「天予」之創作歷程〉.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flash on Yong-Siang Shih (施詠翔)</title>
-    <link>/tags/flash/</link>
+    <link>https://shaform.com/tags/flash/</link>
     <description>Recent content in Flash on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 16 Mar 2005 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2005 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/tags/flash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gifted</title>
-      <link>/project/gifted/</link>
-      <pubDate>Wed, 16 Mar 2005 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/gifted/</link>
+      <pubDate>Wed, 16 Mar 2005 00:00:00 -0500</pubDate>
       
-      <guid>/project/gifted/</guid>
+      <guid>https://shaform.com/project/gifted/</guid>
       <description>Gifted is a novel website that tells fictional stories. The stories are about how different people perceive the same situation differently. The web site utilizes Flash to create animations to accompany the stories. I have also written a post about how I created the website: 〈宏碁數位創作獎作品——「天予」之創作歷程〉.</description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yong-Siang Shih (施詠翔) on Yong-Siang Shih (施詠翔)</title>
-    <link>/</link>
+    <link>https://shaform.com/</link>
     <description>Recent content in Yong-Siang Shih (施詠翔) on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Machine Learning Scientist</title>
-      <link>/work/appier/</link>
-      <pubDate>Mon, 30 Apr 2018 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/work/appier/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>/work/appier/</guid>
+      <guid>https://shaform.com/work/appier/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Cross-screen analysis&lt;/li&gt;
 &lt;li&gt;User profiling&lt;/li&gt;
@@ -26,49 +26,49 @@
     
     <item>
       <title>Compatibility Family Learning for Item Recommendation and Generation</title>
-      <link>/publication/shih2017family/</link>
+      <link>https://shaform.com/publication/shih2017family/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/shih2017family/</guid>
+      <guid>https://shaform.com/publication/shih2017family/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Networks</title>
-      <link>/project/deep-networks/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/deep-networks/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>/project/deep-networks/</guid>
+      <guid>https://shaform.com/project/deep-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection, Disambiguation and Argument Identification of Discourse Connectives in Chinese Discourse Parsing</title>
-      <link>/publication/shih2016detect/</link>
+      <link>https://shaform.com/publication/shih2016detect/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/shih2016detect/</guid>
+      <guid>https://shaform.com/publication/shih2016detect/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Snappycat</title>
-      <link>/project/snappycat/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/snappycat/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
       
-      <guid>/project/snappycat/</guid>
+      <guid>https://shaform.com/project/snappycat/</guid>
       <description>&lt;p&gt;The snappy files produced by Hadoop contain data headers produced by BlockCompressorStream. Each block is prepended with two 32-bit integers stating the size of the decompressed data and size of the compressed data, respectively.h Therefore, snappy library cannot directly decompress it. This command line utility handles the headers and decompresses the data without any dependencies on the Hadoop libraries.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Software Development Engineer Intern</title>
-      <link>/work/msft-intern/</link>
-      <pubDate>Fri, 19 Sep 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/work/msft-intern/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 -0400</pubDate>
       
-      <guid>/work/msft-intern/</guid>
+      <guid>https://shaform.com/work/msft-intern/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Implemented Parking answer that shows nearby parking lots when relevant queries are issued&lt;/li&gt;
 &lt;/ul&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Anobii2Goodreads</title>
-      <link>/project/anobii2goodreads/</link>
-      <pubDate>Tue, 05 Aug 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/anobii2goodreads/</link>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/anobii2goodreads/</guid>
+      <guid>https://shaform.com/project/anobii2goodreads/</guid>
       <description>&lt;p&gt;The utility could&lt;/p&gt;
 
 &lt;ul&gt;
@@ -93,15 +93,15 @@
     
     <item>
       <title>Open Source Contributions</title>
-      <link>/project/oss-contrib/</link>
-      <pubDate>Sat, 12 Jul 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/oss-contrib/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/oss-contrib/</guid>
+      <guid>https://shaform.com/project/oss-contrib/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane&#34; target=&#34;_blank&#34;&gt;xianmin/hugo-theme-jane&lt;/a&gt; &amp;ndash; A readable &amp;amp; concise theme for Hugo
 
 &lt;ul&gt;
-&lt;li&gt;Enhances and bugfixes &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/76&#34; target=&#34;_blank&#34;&gt;#76&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/77&#34; target=&#34;_blank&#34;&gt;#77&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/79&#34; target=&#34;_blank&#34;&gt;#79&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/82&#34; target=&#34;_blank&#34;&gt;#82&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/83&#34; target=&#34;_blank&#34;&gt;#83&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/91&#34; target=&#34;_blank&#34;&gt;#91&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/98&#34; target=&#34;_blank&#34;&gt;#98&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Enhances and bugfixes &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/76&#34; target=&#34;_blank&#34;&gt;#76&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/77&#34; target=&#34;_blank&#34;&gt;#77&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/79&#34; target=&#34;_blank&#34;&gt;#79&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/82&#34; target=&#34;_blank&#34;&gt;#82&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/83&#34; target=&#34;_blank&#34;&gt;#83&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/91&#34; target=&#34;_blank&#34;&gt;#91&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/98&#34; target=&#34;_blank&#34;&gt;#98&lt;/a&gt;, &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/102&#34; target=&#34;_blank&#34;&gt;#102&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/RaRe-Technologies/smart_open&#34; target=&#34;_blank&#34;&gt;RaRe-Technologies/smart_open&lt;/a&gt; &amp;ndash; Utils for streaming large files
 
@@ -145,20 +145,20 @@
     
     <item>
       <title>NTUNLP Approaches to Recognizing and Disambiguating Entities in Long and Short Text at the ERD Challenge 2014</title>
-      <link>/publication/chiu2014ntunlp/</link>
+      <link>https://shaform.com/publication/chiu2014ntunlp/</link>
       <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/chiu2014ntunlp/</guid>
+      <guid>https://shaform.com/publication/chiu2014ntunlp/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>CS Dream</title>
-      <link>/project/csdream/</link>
-      <pubDate>Wed, 21 May 2014 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/csdream/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/csdream/</guid>
+      <guid>https://shaform.com/project/csdream/</guid>
       <description>&lt;p&gt;CS Dream is a open book that introduces computer science to the general audience.&lt;/p&gt;
 
 &lt;p&gt;The book discusses general topics such as the usage of search engines, places to find books, and the importance of English.
@@ -168,10 +168,10 @@ In addition, it also introduces several courses that are usually taught at the u
     
     <item>
       <title>Software Engineering Intern</title>
-      <link>/work/ibm-intern/</link>
-      <pubDate>Fri, 30 Aug 2013 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/work/ibm-intern/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 -0400</pubDate>
       
-      <guid>/work/ibm-intern/</guid>
+      <guid>https://shaform.com/work/ibm-intern/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Unified different versions of a test framework for DataPower while keeping compatibility&lt;/li&gt;
 &lt;li&gt;Created new features and fixed bugs on the test framework to improve productivity&lt;/li&gt;
@@ -181,28 +181,28 @@ In addition, it also introduces several courses that are usually taught at the u
     
     <item>
       <title>Dala Agent</title>
-      <link>/project/dala/</link>
-      <pubDate>Wed, 05 Dec 2012 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/dala/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
       
-      <guid>/project/dala/</guid>
+      <guid>https://shaform.com/project/dala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazeing</title>
-      <link>/project/amazeing/</link>
-      <pubDate>Tue, 26 Jun 2012 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/amazeing/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 -0400</pubDate>
       
-      <guid>/project/amazeing/</guid>
+      <guid>https://shaform.com/project/amazeing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Engineering Intern</title>
-      <link>/work/google-intern/</link>
-      <pubDate>Fri, 09 Sep 2011 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/work/google-intern/</link>
+      <pubDate>Fri, 09 Sep 2011 00:00:00 -0400</pubDate>
       
-      <guid>/work/google-intern/</guid>
+      <guid>https://shaform.com/work/google-intern/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Improved template file management to ease development process&lt;/li&gt;
 &lt;li&gt;Reduced the loading time of iGoogle homepage by modifying JavaScript code&lt;/li&gt;
@@ -212,10 +212,10 @@ In addition, it also introduces several courses that are usually taught at the u
     
     <item>
       <title>ArkanoidOnVerilog</title>
-      <link>/project/arkanoid-on-verilog/</link>
-      <pubDate>Sun, 10 Jul 2011 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/arkanoid-on-verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
       
-      <guid>/project/arkanoid-on-verilog/</guid>
+      <guid>https://shaform.com/project/arkanoid-on-verilog/</guid>
       <description></description>
     </item>
     

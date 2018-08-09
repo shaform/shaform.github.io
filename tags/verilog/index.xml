@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verilog on Yong-Siang Shih (施詠翔)</title>
-    <link>/tags/verilog/</link>
+    <link>https://shaform.com/tags/verilog/</link>
     <description>Recent content in Verilog on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 10 Jul 2011 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jul 2011 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/verilog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/tags/verilog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ArkanoidOnVerilog</title>
-      <link>/project/arkanoid-on-verilog/</link>
-      <pubDate>Sun, 10 Jul 2011 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/arkanoid-on-verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
       
-      <guid>/project/arkanoid-on-verilog/</guid>
+      <guid>https://shaform.com/project/arkanoid-on-verilog/</guid>
       <description></description>
     </item>
     

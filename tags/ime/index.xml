@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IME on Yong-Siang Shih (施詠翔)</title>
-    <link>/tags/ime/</link>
+    <link>https://shaform.com/tags/ime/</link>
     <description>Recent content in IME on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 07 May 2010 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2010 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/ime/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shaform.com/tags/ime/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FreeArray Input Method</title>
-      <link>/project/freearray/</link>
-      <pubDate>Fri, 07 May 2010 00:00:00 +0800</pubDate>
+      <link>https://shaform.com/project/freearray/</link>
+      <pubDate>Fri, 07 May 2010 00:00:00 -0400</pubDate>
       
-      <guid>/project/freearray/</guid>
+      <guid>https://shaform.com/project/freearray/</guid>
       <description>An Array30 input method implementation under Linux.</description>
     </item>
     

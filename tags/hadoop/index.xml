@@ -18,7 +18,7 @@
       <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
       
       <guid>https://shaform.com/project/snappycat/</guid>
-      <description>The snappy files produced by Hadoop contain data headers produced by BlockCompressorStream. Each block is prepended with two 32-bit integers stating the size of the decompressed data and size of the compressed data, respectively.h Therefore, snappy library cannot directly decompress it. This command line utility handles the headers and decompresses the data without any dependencies on the Hadoop libraries.</description>
+      <description>A command line tool to decompress snappy files produced by Hadoop</description>
     </item>
     
   </channel>

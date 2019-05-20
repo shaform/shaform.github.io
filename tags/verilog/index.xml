@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verilog on Yong-Siang Shih (施詠翔)</title>
+    <title>verilog on Yong-Siang Shih (施詠翔)</title>
     <link>https://shaform.com/tags/verilog/</link>
-    <description>Recent content in Verilog on Yong-Siang Shih (施詠翔)</description>
+    <description>Recent content in verilog on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
       
       <guid>https://shaform.com/project/arkanoid-on-verilog/</guid>
-      <description></description>
+      <description>An Arkanoid-like game using Verilog. Developed on a Xilinx Spartan-3E Starter Kit FPGA Board, XC3S500E FG320.</description>
     </item>
     
   </channel>

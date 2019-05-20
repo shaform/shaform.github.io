@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine-learning on Yong-Siang Shih (施詠翔)</title>
+    <title>machine-learning on Yong-Siang Shih (施詠翔)</title>
     <link>https://shaform.com/tags/machine-learning/</link>
-    <description>Recent content in Machine-learning on Yong-Siang Shih (施詠翔)</description>
+    <description>Recent content in machine-learning on Yong-Siang Shih (施詠翔)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
       <guid>https://shaform.com/project/deep-networks/</guid>
-      <description></description>
+      <description>My implementations of deep neural networks for practice</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
       
       <guid>https://shaform.com/project/dala/</guid>
-      <description></description>
+      <description>An agent to play the Dala game, learned with genetic algorithms</description>
     </item>
     
   </channel>

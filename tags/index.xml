@@ -7,58 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 05 Aug 2014 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://shaform.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Anobii</title>
-      <link>https://shaform.com/tags/anobii/</link>
-      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/anobii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Array30</title>
-      <link>https://shaform.com/tags/array30/</link>
-      <pubDate>Fri, 07 May 2010 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/array30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://shaform.com/tags/c&#43;&#43;/</link>
-      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
-      
-      <guid>https://shaform.com/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coding</title>
-      <link>https://shaform.com/tags/coding/</link>
-      <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer-science</title>
-      <link>https://shaform.com/tags/computer-science/</link>
-      <pubDate>Wed, 21 May 2014 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/computer-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep-learning</title>
+      <title>deep-learning</title>
       <link>https://shaform.com/tags/deep-learning/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
@@ -67,38 +22,29 @@
     </item>
     
     <item>
-      <title>Flash</title>
-      <link>https://shaform.com/tags/flash/</link>
-      <pubDate>Wed, 16 Mar 2005 00:00:00 -0500</pubDate>
+      <title>machine-learning</title>
+      <link>https://shaform.com/tags/machine-learning/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://shaform.com/tags/flash/</guid>
+      <guid>https://shaform.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game</title>
-      <link>https://shaform.com/tags/game/</link>
-      <pubDate>Tue, 26 Jun 2012 00:00:00 -0400</pubDate>
+      <title>python</title>
+      <link>https://shaform.com/tags/python/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://shaform.com/tags/game/</guid>
+      <guid>https://shaform.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genetic-algorithm</title>
-      <link>https://shaform.com/tags/genetic-algorithm/</link>
-      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
+      <title>tensorflow</title>
+      <link>https://shaform.com/tags/tensorflow/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://shaform.com/tags/genetic-algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goodreads</title>
-      <link>https://shaform.com/tags/goodreads/</link>
-      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/goodreads/</guid>
+      <guid>https://shaform.com/tags/tensorflow/</guid>
       <description></description>
     </item>
     
@@ -112,6 +58,114 @@
     </item>
     
     <item>
+      <title>snappy</title>
+      <link>https://shaform.com/tags/snappy/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://shaform.com/tags/snappy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utility</title>
+      <link>https://shaform.com/tags/utility/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://shaform.com/tags/utility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anobii</title>
+      <link>https://shaform.com/tags/anobii/</link>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/anobii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goodreads</title>
+      <link>https://shaform.com/tags/goodreads/</link>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/goodreads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://shaform.com/tags/coding/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://shaform.com/tags/open-source/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-science</title>
+      <link>https://shaform.com/tags/computer-science/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://shaform.com/tags/writing/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://shaform.com/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://shaform.com/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic-algorithm</title>
+      <link>https://shaform.com/tags/genetic-algorithm/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://shaform.com/tags/genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://shaform.com/tags/game/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verilog</title>
+      <link>https://shaform.com/tags/verilog/</link>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://shaform.com/tags/verilog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IME</title>
       <link>https://shaform.com/tags/ime/</link>
       <pubDate>Fri, 07 May 2010 00:00:00 -0400</pubDate>
@@ -121,83 +175,29 @@
     </item>
     
     <item>
-      <title>Machine-learning</title>
-      <link>https://shaform.com/tags/machine-learning/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
+      <title>array30</title>
+      <link>https://shaform.com/tags/array30/</link>
+      <pubDate>Fri, 07 May 2010 00:00:00 -0400</pubDate>
       
-      <guid>https://shaform.com/tags/machine-learning/</guid>
+      <guid>https://shaform.com/tags/array30/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Open-source</title>
-      <link>https://shaform.com/tags/open-source/</link>
-      <pubDate>Sat, 12 Jul 2014 00:00:00 -0400</pubDate>
+      <title>flash</title>
+      <link>https://shaform.com/tags/flash/</link>
+      <pubDate>Wed, 16 Mar 2005 00:00:00 -0500</pubDate>
       
-      <guid>https://shaform.com/tags/open-source/</guid>
+      <guid>https://shaform.com/tags/flash/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://shaform.com/tags/python/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Snappy</title>
-      <link>https://shaform.com/tags/snappy/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
-      
-      <guid>https://shaform.com/tags/snappy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensorflow</title>
-      <link>https://shaform.com/tags/tensorflow/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utility</title>
-      <link>https://shaform.com/tags/utility/</link>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
-      
-      <guid>https://shaform.com/tags/utility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Verilog</title>
-      <link>https://shaform.com/tags/verilog/</link>
-      <pubDate>Sun, 10 Jul 2011 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/verilog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
+      <title>web</title>
       <link>https://shaform.com/tags/web/</link>
       <pubDate>Wed, 16 Mar 2005 00:00:00 -0500</pubDate>
       
       <guid>https://shaform.com/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://shaform.com/tags/writing/</link>
-      <pubDate>Wed, 21 May 2014 00:00:00 -0400</pubDate>
-      
-      <guid>https://shaform.com/tags/writing/</guid>
       <description></description>
     </item>
     
